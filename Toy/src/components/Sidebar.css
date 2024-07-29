@@ -1,0 +1,36 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 200px;
+    padding: 20px;
+    border-right: 1px solid #ffffff; 
+    /* color:#000000; */
+  }
+  .sidebar body
+  {
+    background-color: #000;
+  }
+  .sidebar h3 {
+    margin-top: 0;
+    color:rgb(255, 255, 255);
+  }
+  .sidebar label {
+    margin-top: 0;
+    color:rgb(255, 255, 255);
+  }
+  
+  .filter-group {
+    background: #000;
+    margin-bottom: 20px;
+  }
+  
+  .filter-group label {
+    background-color: #000000;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .filter-group input {
+    margin-right: 10px;
+    background-color: #000;
+  }
+  
